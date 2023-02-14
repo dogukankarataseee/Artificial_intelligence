@@ -8,3 +8,4 @@ There are different types of AI;
 --> expert systems, 
 --> machine learning systems.
 
+![1070186-1682732438](https://user-images.githubusercontent.com/104912872/218781396-32bc3811-3e2a-4167-8518-fa7165df0da0.png)
